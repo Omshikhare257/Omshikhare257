@@ -57,6 +57,7 @@ November 2023 – October 2024
 
 
 ### 🏆 Core Competencies
+- machine learning 
 - AI/ML Project Development
 - Chatbot Engineering
 -  Web Development
