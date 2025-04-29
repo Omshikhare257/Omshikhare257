@@ -61,7 +61,6 @@ November 2023 – October 2024
 - AI/ML Project Development
 - Chatbot Engineering
 -  Web Development
-- API Integration
 - Database Management
 - Team Collaboration
 - Problem-Solving
