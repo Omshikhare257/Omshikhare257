@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Om Shikhare
-/h1 # https://omshikhare.vercel.app/ /h1
+<h1>https://omshikhare.vercel.app/</h1>
 ## 🚀 AI/ML & Web Dev Intern
 
 ### 🌟 Professional Summary
