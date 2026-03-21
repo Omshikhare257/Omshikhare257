@@ -1,10 +1,9 @@
 # Hi there! 👋 I'm Om Shikhare
-# https://omshikhare.vercel.app/
+/h1 # https://omshikhare.vercel.app/ /h1
 ## 🚀 AI/ML & Web Dev Intern
 
 ### 🌟 Professional Summary
 Pursuing BSc with specialized vocational training in Artificial Intelligence and Machine Learning at Tata Institute of Social Sciences. Proficient in Python, PHP, HTML, CSS, JavaScript, React.js, R, and SQL. Hands-on experience in AI-powered chatbot development, modern web development, and database management through internships. Developed ChatGPT-like chatbots using APIs, transformers, and LLMs, as well as dynamic websites with WordPress, Laravel, and React.js. Strong background in team collaboration, problem-solving, passionate about leveraging AI and web technologies to build real-world solutions.
-# https://omshikhare.vercel.app/
 ### 🔧 Technical Skillset
 
 #### 💻 Programming Languages
